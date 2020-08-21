@@ -7,7 +7,7 @@ int main(){
     cin>>n;
     while(n--){
         cin>>temp;
-        sum = sum + temp;
+        sum += temp;
     }
     cout<<sum;
     return 0;
