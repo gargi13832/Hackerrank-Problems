@@ -1,5 +1,6 @@
 # Hackerrank-Problems-Solutions
-Solutions to Hackerrank problems
+Solutions to Hackerrank problems (in CPP)
+Following are the links to the problem statements:
 
 1. Problem Solving
 
