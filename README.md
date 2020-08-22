@@ -3,7 +3,7 @@ Solutions to Hackerrank problems (in C++).
 
 Following are the links to the problem statements:
 
-1. Problem Solving
+# 1. Problem Solving
 
 i. Simple Array Sum - https://www.hackerrank.com/challenges/simple-array-sum/problem
 
