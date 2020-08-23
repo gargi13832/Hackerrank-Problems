@@ -5,20 +5,24 @@ Following are the links to the problem statements:
 
 # 1. Problem Solving
 
-i. Simple Array Sum - https://www.hackerrank.com/challenges/simple-array-sum/problem
+1. Simple Array Sum - https://www.hackerrank.com/challenges/simple-array-sum/problem
 
-ii. Plus Minus - https://www.hackerrank.com/challenges/plus-minus/problem
+2. Plus Minus - https://www.hackerrank.com/challenges/plus-minus/problem
 
-iii. Diagonal Difference - https://www.hackerrank.com/challenges/diagonal-difference/problem
+3. Diagonal Difference - https://www.hackerrank.com/challenges/diagonal-difference/problem
 
-iv. Compare the Triplets - https://www.hackerrank.com/challenges/compare-the-triplets/problem
+4. Compare the Triplets - https://www.hackerrank.com/challenges/compare-the-triplets/problem
 
-v. A very big sum - https://www.hackerrank.com/challenges/a-very-big-sum/problem
+5. A very big sum - https://www.hackerrank.com/challenges/a-very-big-sum/problem
 
-vi. Mini-Max Sum - https://www.hackerrank.com/challenges/mini-max-sum/problem
+6. Mini-Max Sum - https://www.hackerrank.com/challenges/mini-max-sum/problem
 
-vii. Staircase - https://www.hackerrank.com/challenges/staircase/problem
+7. Staircase - https://www.hackerrank.com/challenges/staircase/problem
 
-viii. Birthday Cake Candles - https://www.hackerrank.com/challenges/birthday-cake-candles/problem
+8. Birthday Cake Candles - https://www.hackerrank.com/challenges/birthday-cake-candles/problem
 
-ix. Time Conversion - https://www.hackerrank.com/challenges/time-conversion/problem
+9. Time Conversion - https://www.hackerrank.com/challenges/time-conversion/problem
+
+# 2. Java
+
+1. Welcome to Java! - https://www.hackerrank.com/challenges/welcome-to-java/problem 
