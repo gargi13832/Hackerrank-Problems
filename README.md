@@ -18,3 +18,5 @@ v. A very big sum - https://www.hackerrank.com/challenges/a-very-big-sum/problem
 vi. Mini-Max Sum - https://www.hackerrank.com/challenges/mini-max-sum/problem
 
 vii. Staircase - https://www.hackerrank.com/challenges/staircase/problem
+
+viii. Birthday Cake Candles - https://www.hackerrank.com/challenges/birthday-cake-candles/problem
