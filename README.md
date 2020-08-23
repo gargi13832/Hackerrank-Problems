@@ -14,3 +14,7 @@ iii. Diagonal Difference - https://www.hackerrank.com/challenges/diagonal-differ
 iv. Compare the Triplets - https://www.hackerrank.com/challenges/compare-the-triplets/problem
 
 v. A very big sum - https://www.hackerrank.com/challenges/a-very-big-sum/problem
+
+vi. Mini-Max Sum - https://www.hackerrank.com/challenges/mini-max-sum/problem
+
+vii. Staircase - https://www.hackerrank.com/challenges/staircase/problem
