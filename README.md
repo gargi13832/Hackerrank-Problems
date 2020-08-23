@@ -20,3 +20,5 @@ vi. Mini-Max Sum - https://www.hackerrank.com/challenges/mini-max-sum/problem
 vii. Staircase - https://www.hackerrank.com/challenges/staircase/problem
 
 viii. Birthday Cake Candles - https://www.hackerrank.com/challenges/birthday-cake-candles/problem
+
+ix. Time Conversion - https://www.hackerrank.com/challenges/time-conversion/problem
