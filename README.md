@@ -31,6 +31,8 @@ Following are the links to the problem statements:
 
 13. Migratory Birds - https://www.hackerrank.com/challenges/migratory-birds/problem
 
+14. Day of the Programmer - https://www.hackerrank.com/challenges/day-of-the-programmer/problem
+
 # 2. Java
 
 1. Welcome to Java! - https://www.hackerrank.com/challenges/welcome-to-java/problem 
