@@ -25,6 +25,8 @@ Following are the links to the problem statements:
 
 10. Grading Students - https://www.hackerrank.com/challenges/grading/problem
 
+11. Breaking the Records - https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
+
 # 2. Java
 
 1. Welcome to Java! - https://www.hackerrank.com/challenges/welcome-to-java/problem 
