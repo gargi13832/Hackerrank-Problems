@@ -37,4 +37,6 @@ Following are the links to the problem statements:
 
 # 2. Java
 
-1. Welcome to Java! - https://www.hackerrank.com/challenges/welcome-to-java/problem 
+1. Welcome to Java! - https://www.hackerrank.com/challenges/welcome-to-java/problem
+
+2. Java Stdin and Stdout I - https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem
