@@ -29,6 +29,8 @@ Following are the links to the problem statements:
 
 12. Divisible Sum Pairs - https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
 
+13. Migratory Birds - https://www.hackerrank.com/challenges/migratory-birds/problem
+
 # 2. Java
 
 1. Welcome to Java! - https://www.hackerrank.com/challenges/welcome-to-java/problem 
