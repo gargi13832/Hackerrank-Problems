@@ -77,6 +77,8 @@ Following are the links to the problem statements:
 
 36. Zig Zag Sequence - https://www.hackerrank.com/challenges/zig-zag-sequence/problem
 
+37. Smart Number - https://www.hackerrank.com/challenges/smart-number/problem
+
 # 2. Java
 
 1. Welcome to Java! - https://www.hackerrank.com/challenges/welcome-to-java/problem
