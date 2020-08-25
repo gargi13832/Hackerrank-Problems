@@ -41,6 +41,8 @@ Following are the links to the problem statements:
 
 18. Cats and a Mouse - https://www.hackerrank.com/challenges/cats-and-a-mouse/problem
 
+19. The Hurdle Race - https://www.hackerrank.com/challenges/the-hurdle-race/problem
+
 # 2. Java
 
 1. Welcome to Java! - https://www.hackerrank.com/challenges/welcome-to-java/problem
