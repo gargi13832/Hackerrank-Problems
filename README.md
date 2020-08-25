@@ -35,6 +35,8 @@ Following are the links to the problem statements:
 
 15. Bon Appétit - https://www.hackerrank.com/challenges/bon-appetit/problem
 
+16. Sock Merchant - https://www.hackerrank.com/challenges/sock-merchant/problem
+
 # 2. Java
 
 1. Welcome to Java! - https://www.hackerrank.com/challenges/welcome-to-java/problem
