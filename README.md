@@ -53,6 +53,8 @@ Following are the links to the problem statements:
 
 24. Viral Advertising - https://www.hackerrank.com/challenges/strange-advertising/problem
 
+25. Find Digits - https://www.hackerrank.com/challenges/find-digits/problem
+
 # 2. Java
 
 1. Welcome to Java! - https://www.hackerrank.com/challenges/welcome-to-java/problem
