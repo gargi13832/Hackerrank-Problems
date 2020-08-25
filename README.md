@@ -75,6 +75,8 @@ Following are the links to the problem statements:
 
 35. XOR Strings - https://www.hackerrank.com/challenges/strings-xor/problem
 
+36. Zig Zag Sequence - https://www.hackerrank.com/challenges/zig-zag-sequence/problem
+
 # 2. Java
 
 1. Welcome to Java! - https://www.hackerrank.com/challenges/welcome-to-java/problem
