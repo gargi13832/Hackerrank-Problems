@@ -67,6 +67,8 @@ Following are the links to the problem statements:
 
 31. Alternating Characters - https://www.hackerrank.com/challenges/alternating-characters/problem
 
+32. Two Strings - https://www.hackerrank.com/challenges/two-strings/problem
+
 # 2. Java
 
 1. Welcome to Java! - https://www.hackerrank.com/challenges/welcome-to-java/problem
