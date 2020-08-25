@@ -37,6 +37,8 @@ Following are the links to the problem statements:
 
 16. Sock Merchant - https://www.hackerrank.com/challenges/sock-merchant/problem
 
+17. Electronics Shop - https://www.hackerrank.com/challenges/electronics-shop/problem
+
 # 2. Java
 
 1. Welcome to Java! - https://www.hackerrank.com/challenges/welcome-to-java/problem
