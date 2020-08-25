@@ -61,6 +61,8 @@ Following are the links to the problem statements:
 
 28. Strange Counter - https://www.hackerrank.com/challenges/strange-code/problem
 
+29. CamelCase - https://www.hackerrank.com/challenges/camelcase/problem
+
 # 2. Java
 
 1. Welcome to Java! - https://www.hackerrank.com/challenges/welcome-to-java/problem
