@@ -73,6 +73,8 @@ Following are the links to the problem statements:
 
 34. Prime Dates - https://www.hackerrank.com/challenges/prime-date/problem
 
+35. XOR Strings - https://www.hackerrank.com/challenges/strings-xor/problem
+
 # 2. Java
 
 1. Welcome to Java! - https://www.hackerrank.com/challenges/welcome-to-java/problem
