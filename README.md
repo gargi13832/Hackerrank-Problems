@@ -43,6 +43,8 @@ Following are the links to the problem statements:
 
 19. The Hurdle Race - https://www.hackerrank.com/challenges/the-hurdle-race/problem
 
+20. Designer PDF Viewer - https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
+
 # 2. Java
 
 1. Welcome to Java! - https://www.hackerrank.com/challenges/welcome-to-java/problem
