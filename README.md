@@ -57,6 +57,8 @@ Following are the links to the problem statements:
 
 26. Cut the sticks - https://www.hackerrank.com/challenges/cut-the-sticks/problem
 
+27. Minimum Distances - https://www.hackerrank.com/challenges/minimum-distances/problem
+
 # 2. Java
 
 1. Welcome to Java! - https://www.hackerrank.com/challenges/welcome-to-java/problem
