@@ -71,6 +71,8 @@ Following are the links to the problem statements:
 
 33. Pairs - https://www.hackerrank.com/challenges/pairs/problem
 
+34. Prime Dates - https://www.hackerrank.com/challenges/prime-date/problem
+
 # 2. Java
 
 1. Welcome to Java! - https://www.hackerrank.com/challenges/welcome-to-java/problem
