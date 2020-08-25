@@ -39,6 +39,8 @@ Following are the links to the problem statements:
 
 17. Electronics Shop - https://www.hackerrank.com/challenges/electronics-shop/problem
 
+18. Cats and a Mouse - https://www.hackerrank.com/challenges/cats-and-a-mouse/problem
+
 # 2. Java
 
 1. Welcome to Java! - https://www.hackerrank.com/challenges/welcome-to-java/problem
