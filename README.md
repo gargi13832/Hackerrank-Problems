@@ -69,6 +69,8 @@ Following are the links to the problem statements:
 
 32. Two Strings - https://www.hackerrank.com/challenges/two-strings/problem
 
+33. Pairs - https://www.hackerrank.com/challenges/pairs/problem
+
 # 2. Java
 
 1. Welcome to Java! - https://www.hackerrank.com/challenges/welcome-to-java/problem
