@@ -49,6 +49,8 @@ Following are the links to the problem statements:
 
 22. Angry Professor - https://www.hackerrank.com/challenges/angry-professor/problem
 
+23. Beautiful Days at the Movies - https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
+
 # 2. Java
 
 1. Welcome to Java! - https://www.hackerrank.com/challenges/welcome-to-java/problem
