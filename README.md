@@ -51,6 +51,8 @@ Following are the links to the problem statements:
 
 23. Beautiful Days at the Movies - https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
 
+24. Viral Advertising - https://www.hackerrank.com/challenges/strange-advertising/problem
+
 # 2. Java
 
 1. Welcome to Java! - https://www.hackerrank.com/challenges/welcome-to-java/problem
