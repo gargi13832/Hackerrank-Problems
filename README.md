@@ -47,6 +47,8 @@ Following are the links to the problem statements:
 
 21. Utopian Tree - https://www.hackerrank.com/challenges/utopian-tree/problem
 
+22. Angry Professor - https://www.hackerrank.com/challenges/angry-professor/problem
+
 # 2. Java
 
 1. Welcome to Java! - https://www.hackerrank.com/challenges/welcome-to-java/problem
