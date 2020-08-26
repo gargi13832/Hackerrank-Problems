@@ -90,3 +90,5 @@ Following are the links to the problem statements:
 1. Say "Hello, World!" With C++ - https://www.hackerrank.com/challenges/cpp-hello-world/problem
 
 2. Input and Output - https://www.hackerrank.com/challenges/cpp-input-and-output/problem
+
+3. Basic Data Types - https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem
