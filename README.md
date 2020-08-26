@@ -96,3 +96,5 @@ Following are the links to the problem statements:
 4. Conditional Statements - https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem
 
 5. For Loop - https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem
+
+6. Functions - https://www.hackerrank.com/challenges/c-tutorial-functions/problem
