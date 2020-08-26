@@ -1,9 +1,9 @@
-# Hackerrank-Problems-Solutions
-Solutions to Hackerrank problems (in C++).
+### Hackerrank-Problems-Solutions
+Solutions to Hackerrank problems.
 
 Following are the links to the problem statements:
 
-# 1. Problem Solving
+### 1. Problem Solving
 
 1. Simple Array Sum - https://www.hackerrank.com/challenges/simple-array-sum/problem
 2. Plus Minus - https://www.hackerrank.com/challenges/plus-minus/problem
@@ -43,30 +43,20 @@ Following are the links to the problem statements:
 36. Zig Zag Sequence - https://www.hackerrank.com/challenges/zig-zag-sequence/problem
 37. Smart Number - https://www.hackerrank.com/challenges/smart-number/problem
 
-# 2. Java
+### 2. Java
 
 1. Welcome to Java! - https://www.hackerrank.com/challenges/welcome-to-java/problem
-
 2. Java Stdin and Stdout I - https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem
-
 3. Java If-Else - https://www.hackerrank.com/challenges/java-if-else/problem
-
 4. Java Stdin and Stdout II - https://www.hackerrank.com/challenges/java-stdin-stdout/problem
 
-# 3. C++
+### 3. C++
 
 1. Say "Hello, World!" With C++ - https://www.hackerrank.com/challenges/cpp-hello-world/problem
-
 2. Input and Output - https://www.hackerrank.com/challenges/cpp-input-and-output/problem
-
 3. Basic Data Types - https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem
-
 4. Conditional Statements - https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem
-
 5. For Loop - https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem
-
 6. Functions - https://www.hackerrank.com/challenges/c-tutorial-functions/problem
-
 7. Pointer - https://www.hackerrank.com/challenges/c-tutorial-pointer/problem
-
 8. Inherited Code - https://www.hackerrank.com/challenges/inherited-code/problem
