@@ -88,3 +88,5 @@ Following are the links to the problem statements:
 # 3. C++
 
 1. Say "Hello, World!" With C++ - https://www.hackerrank.com/challenges/cpp-hello-world/problem
+
+2. Input and Output - https://www.hackerrank.com/challenges/cpp-input-and-output/problem
