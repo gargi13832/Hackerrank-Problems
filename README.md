@@ -100,3 +100,5 @@ Following are the links to the problem statements:
 6. Functions - https://www.hackerrank.com/challenges/c-tutorial-functions/problem
 
 7. Pointer - https://www.hackerrank.com/challenges/c-tutorial-pointer/problem
+
+8. Inherited Code - https://www.hackerrank.com/challenges/inherited-code/problem
