@@ -85,6 +85,8 @@ Following are the links to the problem statements:
 
 2. Java Stdin and Stdout I - https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem
 
+3. Java If-Else - https://www.hackerrank.com/challenges/java-if-else/problem
+
 # 3. C++
 
 1. Say "Hello, World!" With C++ - https://www.hackerrank.com/challenges/cpp-hello-world/problem
