@@ -98,3 +98,5 @@ Following are the links to the problem statements:
 5. For Loop - https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem
 
 6. Functions - https://www.hackerrank.com/challenges/c-tutorial-functions/problem
+
+7. Pointer - https://www.hackerrank.com/challenges/c-tutorial-pointer/problem
