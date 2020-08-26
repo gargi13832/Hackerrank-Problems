@@ -94,3 +94,5 @@ Following are the links to the problem statements:
 3. Basic Data Types - https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem
 
 4. Conditional Statements - https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem
+
+5. For Loop - https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem
