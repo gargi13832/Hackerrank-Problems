@@ -92,3 +92,5 @@ Following are the links to the problem statements:
 2. Input and Output - https://www.hackerrank.com/challenges/cpp-input-and-output/problem
 
 3. Basic Data Types - https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem
+
+4. Conditional Statements - https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem
