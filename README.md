@@ -84,3 +84,7 @@ Following are the links to the problem statements:
 1. Welcome to Java! - https://www.hackerrank.com/challenges/welcome-to-java/problem
 
 2. Java Stdin and Stdout I - https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem
+
+# 3. C++
+
+1. Say "Hello, World!" With C++ - https://www.hackerrank.com/challenges/cpp-hello-world/problem
