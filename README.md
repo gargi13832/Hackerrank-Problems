@@ -50,6 +50,7 @@ Following are the links to the problem statements:
 3. Java If-Else - https://www.hackerrank.com/challenges/java-if-else/problem
 4. Java Stdin and Stdout II - https://www.hackerrank.com/challenges/java-stdin-stdout/problem
 5. Java Output Formatting - https://www.hackerrank.com/challenges/java-output-formatting/problem
+6. Java Loops I - https://www.hackerrank.com/challenges/java-loops-i/problem
 
 ### 3. C++
 
