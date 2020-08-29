@@ -65,3 +65,4 @@ Following are the links to the problem statements:
 7. Pointer - https://www.hackerrank.com/challenges/c-tutorial-pointer/problem
 8. Inherited Code - https://www.hackerrank.com/challenges/inherited-code/problem
 9. Arrays Introduction - https://www.hackerrank.com/challenges/arrays-introduction/problem
+10. Variable Sized Arrays - https://www.hackerrank.com/challenges/variable-sized-arrays/problem
