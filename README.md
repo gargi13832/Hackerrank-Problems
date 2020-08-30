@@ -67,3 +67,4 @@ Following are the links to the problem statements:
 9. Arrays Introduction - https://www.hackerrank.com/challenges/arrays-introduction/problem
 10. Variable Sized Arrays - https://www.hackerrank.com/challenges/variable-sized-arrays/problem
 11. Jumping on the Clouds - https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
+12. Counting Valleys - https://www.hackerrank.com/challenges/counting-valleys/problem
