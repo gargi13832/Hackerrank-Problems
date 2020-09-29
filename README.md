@@ -69,3 +69,4 @@ Following are the links to the problem statements:
 11. Jumping on the Clouds - https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
 12. Counting Valleys - https://www.hackerrank.com/challenges/counting-valleys/problem
 13. StringStream - https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem
+14. Strings - https://www.hackerrank.com/challenges/c-tutorial-strings/submissions/code/98029088
