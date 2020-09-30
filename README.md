@@ -71,3 +71,4 @@ Following are the links to the problem statements:
 13. StringStream - https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem
 14. Strings - https://www.hackerrank.com/challenges/c-tutorial-strings/submissions/code/98029088
 15. Structs - https://www.hackerrank.com/challenges/c-tutorial-struct/problem
+16. Class - https://www.hackerrank.com/challenges/c-tutorial-class/problem
