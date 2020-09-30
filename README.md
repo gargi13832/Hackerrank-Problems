@@ -77,3 +77,4 @@ Following are the links to the problem statements:
 19. Vector-Erase - https://www.hackerrank.com/challenges/vector-erase/problem
 20. Print Pretty - https://www.hackerrank.com/challenges/prettyprint/problem
 21. Playing with Characters - https://www.hackerrank.com/challenges/playing-with-characters/problem
+22. Sum and Difference of Two Numbers - https://www.hackerrank.com/challenges/sum-numbers-c/problem
