@@ -73,4 +73,4 @@ Following are the links to the problem statements:
 15. Structs - https://www.hackerrank.com/challenges/c-tutorial-struct/problem
 16. Class - https://www.hackerrank.com/challenges/c-tutorial-class/problem
 17. Classes and Objects - https://www.hackerrank.com/challenges/classes-objects/problem
-18. Inherited Code - https://www.hackerrank.com/challenges/inherited-code/problem
+18. Vector-Sort - https://www.hackerrank.com/challenges/vector-sort/problem
