@@ -76,3 +76,4 @@ Following are the links to the problem statements:
 18. Vector-Sort - https://www.hackerrank.com/challenges/vector-sort/problem
 19. Vector-Erase - https://www.hackerrank.com/challenges/vector-erase/problem
 20. Print Pretty - https://www.hackerrank.com/challenges/prettyprint/problem
+21. Playing with Characters - https://www.hackerrank.com/challenges/playing-with-characters/submissions/code/99401307
