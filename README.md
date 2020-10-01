@@ -79,3 +79,4 @@ Following are the links to the problem statements:
 21. Playing with Characters - https://www.hackerrank.com/challenges/playing-with-characters/problem
 22. Sum and Difference of Two Numbers - https://www.hackerrank.com/challenges/sum-numbers-c/problem
 23. Functions in C - https://www.hackerrank.com/challenges/functions-in-c/problem
+24. Pointers in C - https://www.hackerrank.com/challenges/pointer-in-c/problem
