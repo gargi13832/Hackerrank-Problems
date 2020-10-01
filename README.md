@@ -81,3 +81,4 @@ Following are the links to the problem statements:
 23. Functions in C - https://www.hackerrank.com/challenges/functions-in-c/problem
 24. Pointers in C - https://www.hackerrank.com/challenges/pointer-in-c/problem
 25. Conditional Statements in C - https://www.hackerrank.com/challenges/conditional-statements-in-c/problem
+26. For Loop in C - https://www.hackerrank.com/challenges/for-loop-in-c/problem
