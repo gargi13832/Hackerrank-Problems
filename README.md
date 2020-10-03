@@ -84,3 +84,4 @@ Following are the links to the problem statements:
 26. For Loop in C - https://www.hackerrank.com/challenges/for-loop-in-c/problem
 27. Sum of Digits of a Five Digit Number - https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem
 28. Bitwise Operators - https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem
+29. Printing Pattern Using Loops - https://www.hackerrank.com/challenges/printing-pattern-2/problem
