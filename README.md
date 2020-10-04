@@ -86,3 +86,4 @@ Following are the links to the problem statements:
 28. Bitwise Operators - https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem
 29. Printing Pattern Using Loops - https://www.hackerrank.com/challenges/printing-pattern-2/problem
 30. 1D Arrays in C - https://www.hackerrank.com/challenges/1d-arrays-in-c/problem
+31. Array Reversal - https://www.hackerrank.com/challenges/reverse-array-c/problem
