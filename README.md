@@ -89,3 +89,7 @@ Following are the links to the problem statements:
 31. Array Reversal - https://www.hackerrank.com/challenges/reverse-array-c/problem
 32. Printing Tokens - https://www.hackerrank.com/challenges/printing-tokens-/problem
 33. Digit Frequency - https://www.hackerrank.com/challenges/frequency-of-digits-1/problem
+
+### 4. Regex
+
+1. Matching Specific String - https://www.hackerrank.com/challenges/matching-specific-string/problem
