@@ -93,3 +93,4 @@ Following are the links to the problem statements:
 ### 4. Regex
 
 1. Matching Specific String - https://www.hackerrank.com/challenges/matching-specific-string/problem
+2. Matching Anything But a Newline - https://www.hackerrank.com/challenges/matching-anything-but-new-line/problem
