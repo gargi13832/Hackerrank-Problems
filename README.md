@@ -99,3 +99,4 @@ Following are the links to the problem statements:
 5. Matching Word & Non-Word Character - https://www.hackerrank.com/challenges/matching-word-non-word/problem
 6. Matching Start & End - https://www.hackerrank.com/challenges/matching-start-end/problem
 7. Matching Specific Characters - https://www.hackerrank.com/challenges/matching-specific-characters/problem
+8. Excluding Specific Characters - https://www.hackerrank.com/challenges/excluding-specific-characters/problem
