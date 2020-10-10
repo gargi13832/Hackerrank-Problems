@@ -102,3 +102,4 @@ Following are the links to the problem statements:
 8. Excluding Specific Characters - https://www.hackerrank.com/challenges/excluding-specific-characters/problem
 9. Matching Character Ranges - https://www.hackerrank.com/challenges/matching-range-of-characters/problem
 10. Matching {x} Repetitions - https://www.hackerrank.com/challenges/matching-x-repetitions/problem
+11. Matching {x, y} Repetitions - https://www.hackerrank.com/challenges/matching-x-y-repetitions/problem
