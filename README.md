@@ -105,3 +105,4 @@ Following are the links to the problem statements:
 11. Matching {x, y} Repetitions - https://www.hackerrank.com/challenges/matching-x-y-repetitions/problem
 12. Matching Zero Or More Repetitions - https://www.hackerrank.com/challenges/matching-zero-or-more-repetitions/problem
 13. Matching One Or More Repetitions - https://www.hackerrank.com/challenges/matching-one-or-more-repititions/problem
+14. Capturing & Non-Capturing Groups - https://www.hackerrank.com/challenges/capturing-non-capturing-groups/problem
