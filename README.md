@@ -43,6 +43,7 @@ Following are the links to the problem statements:
 36. Zig Zag Sequence - https://www.hackerrank.com/challenges/zig-zag-sequence/problem
 37. Smart Number - https://www.hackerrank.com/challenges/smart-number/problem
 38. Repeated String - https://www.hackerrank.com/challenges/repeated-string/problem
+39. Sales by Match - https://www.hackerrank.com/challenges/sock-merchant/problem
 
 ### 2. Java
 
