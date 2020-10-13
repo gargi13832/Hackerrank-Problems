@@ -42,6 +42,7 @@ Following are the links to the problem statements:
 35. XOR Strings - https://www.hackerrank.com/challenges/strings-xor/problem
 36. Zig Zag Sequence - https://www.hackerrank.com/challenges/zig-zag-sequence/problem
 37. Smart Number - https://www.hackerrank.com/challenges/smart-number/problem
+38. Repeated String - https://www.hackerrank.com/challenges/repeated-string/problem
 
 ### 2. Java
 
