@@ -95,6 +95,7 @@ Following are the links to the problem statements:
 35. Calculate the Nth term - https://www.hackerrank.com/challenges/recursion-in-c/problem
 36. Students Marks Sum - https://www.hackerrank.com/challenges/students-marks-sum/problem
 37. Boxes through a Tunnel - https://www.hackerrank.com/challenges/too-high-boxes/problem
+38. Small Triangles, Large Triangles - https://www.hackerrank.com/challenges/small-triangles-large-triangles/problem
 
 ### 4. Regex
 
