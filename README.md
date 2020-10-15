@@ -93,6 +93,7 @@ Following are the links to the problem statements:
 33. Digit Frequency - https://www.hackerrank.com/challenges/frequency-of-digits-1/problem
 34. Dynamic Array in C - https://www.hackerrank.com/challenges/dynamic-array-in-c/problem
 35. Calculate the Nth term - https://www.hackerrank.com/challenges/recursion-in-c/problem
+36. Students Marks Sum - https://www.hackerrank.com/challenges/students-marks-sum/problem
 
 ### 4. Regex
 
