@@ -118,3 +118,4 @@ Following are the links to the problem statements:
 ### 5. SQL
 
 1. Revising the Select Query I - https://www.hackerrank.com/challenges/revising-the-select-query/problem
+2. Revising the Select Query II - https://www.hackerrank.com/challenges/revising-the-select-query-2/problem
