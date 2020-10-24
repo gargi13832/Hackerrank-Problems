@@ -114,3 +114,7 @@ Following are the links to the problem statements:
 13. Matching One Or More Repetitions - https://www.hackerrank.com/challenges/matching-one-or-more-repititions/problem
 14. Capturing & Non-Capturing Groups - https://www.hackerrank.com/challenges/capturing-non-capturing-groups/problem
 15. Alternative Matching - https://www.hackerrank.com/challenges/alternative-matching/problem
+
+### 5. SQL
+
+1. Revising the Select Query I - https://www.hackerrank.com/challenges/revising-the-select-query/problem
